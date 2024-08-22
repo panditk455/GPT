@@ -1,5 +1,5 @@
 
-# LLM BY SCRATCH
+# LLM BY SCRATCH 
 
 This project is all about setting up a Python environment for natural language processing and deep learning using PyTorch. We start by creating and activating a Python virtual environment and installing key libraries like `matplotlib`, `numpy`, `pylzma`, `ipykernel`, `jupyter`, and PyTorch. Once that's done, we launch Jupyter Notebook to work interactively with text data from "Wizard of Oz" and try out character-level tokenization. We cover various aspects of tokenization, introduce tensors and their benefits, and explain fundamental linear algebra concepts. We also discuss how to split data into training and validation sets, implement a bigram model, and manage batch sizes during training. Later, we explore GPU processing with CUDA for faster computations, compare CPU and GPU performance, and dive into PyTorch’s functionalities and embedding vectors for representing data in a continuous space. This structured approach helps in understanding both the theory and practical aspects of working with text data and neural networks using PyTorch.
 
